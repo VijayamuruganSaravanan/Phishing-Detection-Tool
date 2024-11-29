@@ -1,0 +1,806 @@
+Phishing Detection History:
+
+--- Analysis 1 ---
+Input: https://metamaskyelogin.webflow.io
+Analysis Report for Input: https://metamaskyelogin.webflow.io
+
+
+Virustotal Analysis:
+  - Harmless: 0
+  - Malicious: 0
+  - Suspicious: 0
+  - Undetected: 0
+
+Final Verdict:
+  Probably Safe (Low Risk)
+
+--- Analysis 2 ---
+Input: https://metamaskxextensiony.webflow.io
+Analysis Report for Input: https://metamaskxextensiony.webflow.io
+
+
+Virustotal Analysis:
+  - Harmless: 0
+  - Malicious: 0
+  - Suspicious: 0
+  - Undetected: 0
+
+Final Verdict:
+  Probably Safe (Low Risk)
+
+--- Analysis 4 ---
+Input: 165.227.147.218
+Analysis Report for Input: 165.227.147.218
+
+
+Ipinfo Analysis:
+  - Ip: 165.227.147.218
+  - City: Frankfurt am Main
+  - Region: Hesse
+  - Country: DE
+  - Organization: AS14061 DigitalOcean, LLC
+
+Abuseipdb Analysis:
+  - Ip: 165.227.147.218
+  - Abuse Confidence: 100
+  - Total Reports: 6003
+  - Last Reported: 2024-11-29T02:14:20+00:00
+
+Ipqualityscore Analysis:
+  - Ip: None
+  - Fraud Score: 100
+  - Is Phishing: None
+
+Final Verdict:
+  Phishing Site (High Risk)
+
+--- Analysis 6 ---
+Input: bside.com
+Analysis Report for Input: bside.com
+
+
+Ipinfo Analysis:
+  - Error: IPinfo could not analyze the input.
+
+Abuseipdb Analysis:
+  - Error: AbuseIPDB could not analyze the input.
+
+Ipqualityscore Analysis:
+  - Ip: None
+  - Fraud Score: 75
+  - Is Phishing: None
+
+Final Verdict:
+  Slight Chance of Phishing (Medium Risk)
+
+--- Analysis 8 ---
+Input: applified.com
+Analysis Report for Input: applified.com
+
+
+Ipinfo Analysis:
+  - Error: IPinfo could not analyze the input.
+
+Abuseipdb Analysis:
+  - Error: AbuseIPDB could not analyze the input.
+
+Ipqualityscore Analysis:
+  - Ip: None
+  - Fraud Score: 100
+  - Is Phishing: None
+
+Final Verdict:
+  Phishing Site (High Risk)
+
+--- Analysis 10 ---
+Input: 192.45.55.34
+Analysis Report for Input: 192.45.55.34
+
+
+Ipinfo Analysis:
+  - Ip: 192.45.55.34
+  - City: Redondo Beach
+  - Region: California
+  - Country: US
+  - Organization: AS1906 Northrop Grumman
+
+Abuseipdb Analysis:
+  - Ip: 192.45.55.34
+  - Abuse Confidence: 0
+  - Total Reports: 0
+  - Last Reported: None
+
+Ipqualityscore Analysis:
+  - Ip: None
+  - Fraud Score: 75
+  - Is Phishing: None
+
+Final Verdict:
+  Slight Chance of Phishing (Medium Risk)
+
+--- Analysis 13 ---
+Input: bigstick.com
+Analysis Report for Input: bigstick.com
+
+
+Ipinfo Analysis:
+  - Error: IPinfo could not analyze the input.
+
+Abuseipdb Analysis:
+  - Error: AbuseIPDB could not analyze the input.
+
+Ipqualityscore Analysis:
+  - Ip: None
+  - Fraud Score: 100
+  - Is Phishing: None
+
+Final Verdict:
+  Phishing Site (High Risk)
+
+--- Analysis 14 ---
+Input: www.applejuice.com
+Analysis Report for Input: www.applejuice.com
+
+
+Ipinfo Analysis:
+  - Error: IPinfo could not analyze the input.
+
+Abuseipdb Analysis:
+  - Error: AbuseIPDB could not analyze the input.
+
+Ipqualityscore Analysis:
+  - Ip: None
+  - Fraud Score: 87
+  - Is Phishing: None
+
+Final Verdict:
+  Phishing Site (High Risk)
+
+--- Analysis 16 ---
+Input: https://www.applejuice.com
+Analysis Report for Input: https://www.applejuice.com
+
+
+Virustotal Analysis:
+  - Harmless: 0
+  - Malicious: 0
+  - Suspicious: 0
+  - Undetected: 0
+
+Ipqualityscore Analysis:
+  - Error: IPQualityScore could not analyze the input.
+
+Final Verdict:
+  Probably Safe (Low Risk)
+
+--- Analysis 18 ---
+Input: https://bigstick.com
+Analysis Report for Input: https://bigstick.com
+
+
+Virustotal Analysis:
+  - Harmless: 0
+  - Malicious: 0
+  - Suspicious: 0
+  - Undetected: 0
+
+Final Verdict: 
+  This is likely a safe site.
+
+--- Analysis 19 ---
+Input: bigstick.com
+Analysis Report for Input: bigstick.com
+
+
+Ipinfo Analysis:
+  - Error: IPinfo could not analyze the input.
+
+Abuseipdb Analysis:
+  - Error: AbuseIPDB could not analyze the input.
+
+Ipqualityscore Analysis:
+  - Ip: None
+  - Fraud Score: 100
+  - Is Phishing: None
+
+Final Verdict:
+  Phishing Site (High Risk)
+
+--- Analysis 21 ---
+Input: https://bigstick.com
+Analysis Report for Input: https://bigstick.com
+
+
+Virustotal Analysis:
+  - Harmless: 69
+  - Malicious: 0
+  - Suspicious: 0
+  - Undetected: 27
+
+Ipqualityscore Analysis:
+  - Error: IPQualityScore could not analyze the input.
+
+Final Verdict:
+  Probably Safe (Low Risk)
+
+--- Analysis 23 ---
+Input: biggie.com
+Analysis Report for Input: biggie.com
+
+
+Virustotal Analysis:
+  - Harmless: 0
+  - Malicious: 0
+  - Suspicious: 0
+  - Undetected: 0
+
+Ipqualityscore Analysis:
+  - Ip: None
+  - Fraud Score: 87
+  - Is Phishing: None
+
+Converted Ip Analysis:
+  - Converted Ip: 13.248.206.98
+
+Ipinfo Analysis:
+  - Ip: 13.248.206.98
+  - City: Seattle
+  - Region: Washington
+  - Country: US
+  - Organization: AS16509 Amazon.com, Inc.
+
+Abuseipdb Analysis:
+  - Ip: 13.248.206.98
+  - Abuse Confidence: 0
+  - Total Reports: 0
+  - Last Reported: 2023-08-08T01:35:34+00:00
+
+Final Verdict:
+  Phishing Site (High Risk)
+
+--- Analysis 27 ---
+Input: bigstick.com
+Analysis Report for Input: bigstick.com
+
+
+Virustotal Analysis:
+  - Harmless: 69
+  - Malicious: 0
+  - Suspicious: 0
+  - Undetected: 27
+
+Ipqualityscore Analysis:
+  - Ip: None
+  - Fraud Score: 100
+  - Is Phishing: None
+
+Converted Ip Analysis:
+  - Converted Ip: 99.83.190.102
+
+Ipinfo Analysis:
+  - Ip: 99.83.190.102
+  - City: Seattle
+  - Region: Washington
+  - Country: US
+  - Organization: AS16509 Amazon.com, Inc.
+
+Abuseipdb Analysis:
+  - Ip: 99.83.190.102
+  - Abuse Confidence: 2
+  - Total Reports: 7
+  - Last Reported: 2024-11-04T19:12:02+00:00
+
+Final Verdict:
+  Phishing Site (High Risk)
+
+--- Analysis 30 ---
+Input: biggie.com
+Analysis Report for Input: biggie.com
+
+
+Virustotal Analysis:
+  - Error: VirusTotal could not analyze the input.
+
+Ipqualityscore Analysis:
+  - Ip: None
+  - Fraud Score: 87
+  - Is Phishing: None
+
+Converted Ip Analysis:
+  - Converted Ip: 13.248.206.98
+
+Ipinfo Analysis:
+  - Ip: 13.248.206.98
+  - City: Seattle
+  - Region: Washington
+  - Country: US
+  - Organization: AS16509 Amazon.com, Inc.
+
+Abuseipdb Analysis:
+  - Ip: 13.248.206.98
+  - Abuse Confidence: 0
+  - Total Reports: 0
+  - Last Reported: 2023-08-08T01:35:34+00:00
+
+Final Verdict:
+  Phishing Site (High Risk)
+
+--- Analysis 33 ---
+Input: apple.com
+Analysis Report for Input: apple.com
+
+
+Virustotal Analysis:
+  - Harmless: 0
+  - Malicious: 0
+  - Suspicious: 0
+  - Undetected: 0
+
+Ipqualityscore Analysis:
+  - Ip: None
+  - Fraud Score: 100
+  - Is Phishing: None
+
+Converted Ip Analysis:
+  - Converted Ip: 17.253.144.10
+
+Ipinfo Analysis:
+  - Ip: 17.253.144.10
+  - City: Cupertino
+  - Region: California
+  - Country: US
+  - Organization: AS714 Apple Inc.
+
+Abuseipdb Analysis:
+  - Ip: 17.253.144.10
+  - Abuse Confidence: 0
+  - Total Reports: 76
+  - Last Reported: 2024-11-29T13:17:01+00:00
+
+Final Verdict:
+  Phishing Site (High Risk)
+
+--- Analysis 37 ---
+Input: google.com
+Analysis Report for Input: google.com
+
+
+Virustotal Analysis:
+  - Harmless: 0
+  - Malicious: 0
+  - Suspicious: 0
+  - Undetected: 0
+
+Ipqualityscore Analysis:
+  - Ip: None
+  - Fraud Score: 0
+  - Is Phishing: None
+
+Converted Ip Analysis:
+  - Converted Ip: 142.250.191.238
+
+Ipinfo Analysis:
+  - Ip: 142.250.191.238
+  - City: Chicago
+  - Region: Illinois
+  - Country: US
+  - Organization: AS15169 Google LLC
+
+Abuseipdb Analysis:
+  - Ip: 142.250.191.238
+  - Abuse Confidence: 0
+  - Total Reports: 0
+  - Last Reported: 2023-09-18T16:20:12+00:00
+
+Final Verdict:
+  Probably Safe (Low Risk)
+
+--- Analysis 40 ---
+Input: appple.com
+Analysis Report for Input: appple.com
+
+
+Virustotal Analysis:
+  - Harmless: 0
+  - Malicious: 0
+  - Suspicious: 0
+  - Undetected: 0
+
+Ipqualityscore Analysis:
+  - Ip: None
+  - Fraud Score: 100
+  - Is Phishing: None
+
+Converted Ip Analysis:
+  - Converted Ip: 95.211.75.16
+
+Ipinfo Analysis:
+  - Ip: 95.211.75.16
+  - City: Heerhugowaard
+  - Region: North Holland
+  - Country: NL
+  - Organization: AS60781 LeaseWeb Netherlands B.V.
+
+Abuseipdb Analysis:
+  - Ip: 95.211.75.16
+  - Abuse Confidence: 0
+  - Total Reports: 0
+  - Last Reported: 2022-03-20T06:45:54+00:00
+
+Final Verdict:
+  Phishing Site (High Risk)
+
+--- Analysis 44 ---
+Input: bside.com
+Analysis Report for Input: bside.com
+
+
+Virustotal Analysis:
+  - Harmless: 0
+  - Malicious: 0
+  - Suspicious: 0
+  - Undetected: 0
+
+Ipqualityscore Analysis:
+  - Ip: None
+  - Fraud Score: 75
+  - Is Phishing: None
+
+Converted Ip Analysis:
+  - Converted Ip: 184.73.205.152
+
+Ipinfo Analysis:
+  - Ip: 184.73.205.152
+  - City: Ashburn
+  - Region: Virginia
+  - Country: US
+  - Organization: AS14618 Amazon.com, Inc.
+
+Abuseipdb Analysis:
+  - Ip: 184.73.205.152
+  - Abuse Confidence: 0
+  - Total Reports: 0
+  - Last Reported: None
+
+Final Verdict:
+  Slight Chance of Phishing (Medium Risk)
+
+--- Analysis 47 ---
+Input: kraken.com
+Analysis Report for Input: kraken.com
+
+
+Virustotal Analysis:
+  - Harmless: 0
+  - Malicious: 0
+  - Suspicious: 0
+  - Undetected: 0
+
+Ipqualityscore Analysis:
+  - Ip: None
+  - Fraud Score: 0
+  - Is Phishing: None
+
+Converted Ip Analysis:
+  - Converted Ip: 104.17.185.205
+
+Ipinfo Analysis:
+  - Ip: 104.17.185.205
+  - City: San Francisco
+  - Region: California
+  - Country: US
+  - Organization: AS13335 Cloudflare, Inc.
+
+Abuseipdb Analysis:
+  - Ip: 104.17.185.205
+  - Abuse Confidence: 0
+  - Total Reports: 0
+  - Last Reported: None
+
+Final Verdict:
+  Probably Safe (Low Risk)
+
+--- Analysis 51 ---
+Input: kraken.shop
+Analysis Report for Input: kraken.shop
+
+
+Virustotal Analysis:
+  - Harmless: 0
+  - Malicious: 0
+  - Suspicious: 0
+  - Undetected: 0
+
+Ipqualityscore Analysis:
+  - Ip: None
+  - Fraud Score: 100
+  - Is Phishing: None
+
+Converted Ip Analysis:
+  - Converted Ip: 13.248.169.48
+
+Ipinfo Analysis:
+  - Ip: 13.248.169.48
+  - City: Seattle
+  - Region: Washington
+  - Country: US
+  - Organization: AS16509 Amazon.com, Inc.
+
+Abuseipdb Analysis:
+  - Ip: 13.248.169.48
+  - Abuse Confidence: 13
+  - Total Reports: 7
+  - Last Reported: 2024-11-22T09:34:59+00:00
+
+Final Verdict:
+  Phishing Site (High Risk)
+
+--- Analysis 54 ---
+Input: 192.168.1.1
+Analysis Report for Input: 192.168.1.1
+
+
+Ipqualityscore Analysis:
+  - Ip: None
+  - Fraud Score: 100
+  - Is Phishing: None
+
+Abuseipdb Analysis:
+  - Ip: 192.168.1.1
+  - Abuse Confidence: 0
+  - Total Reports: 9
+  - Last Reported: 2024-11-27T11:36:17+00:00
+
+Ipinfo Analysis:
+  - Ip: 192.168.1.1
+  - City: None
+  - Region: None
+  - Country: None
+  - Organization: None
+
+Final Verdict:
+  Phishing Site (High Risk)
+
+--- Analysis 57 ---
+Input: biggie.com
+Analysis Report for Input: biggie.com
+
+
+Virustotal Analysis:
+  - Harmless: 0
+  - Malicious: 0
+  - Suspicious: 0
+  - Undetected: 0
+
+Ipqualityscore Analysis:
+  - Ip: None
+  - Fraud Score: 87
+  - Is Phishing: None
+
+Converted Ip Analysis:
+  - Converted Ip: 13.248.206.98
+
+Ipinfo Analysis:
+  - Ip: 13.248.206.98
+  - City: Seattle
+  - Region: Washington
+  - Country: US
+  - Organization: AS16509 Amazon.com, Inc.
+
+Abuseipdb Analysis:
+  - Ip: 13.248.206.98
+  - Abuse Confidence: 0
+  - Total Reports: 0
+  - Last Reported: 2023-08-08T01:35:34+00:00
+
+Final Verdict:
+  Phishing Site (High Risk)
+
+--- Analysis 60 ---
+Input: kraken.shop
+Analysis Report for Input: kraken.shop
+
+
+Virustotal Analysis:
+  - Harmless: 0
+  - Malicious: 0
+  - Suspicious: 0
+  - Undetected: 0
+
+Ipqualityscore Analysis:
+  - Ip: None
+  - Fraud Score: 100
+  - Is Phishing: None
+
+Converted Ip Analysis:
+  - Converted Ip: 13.248.169.48
+
+Ipinfo Analysis:
+  - Ip: 13.248.169.48
+  - City: Seattle
+  - Region: Washington
+  - Country: US
+  - Organization: AS16509 Amazon.com, Inc.
+
+Abuseipdb Analysis:
+  - Ip: 13.248.169.48
+  - Abuse Confidence: 13
+  - Total Reports: 7
+  - Last Reported: 2024-11-22T09:34:59+00:00
+
+Final Verdict:
+  Phishing Site (High Risk)
+
+--- Analysis 64 ---
+Input: apple.com
+Analysis Report for Input: apple.com
+
+
+Virustotal Analysis:
+  - Harmless: 69
+  - Malicious: 0
+  - Suspicious: 0
+  - Undetected: 27
+
+Ipqualityscore Analysis:
+  - Ip: None
+  - Fraud Score: 100
+  - Is Phishing: None
+
+Converted Ip Analysis:
+  - Converted Ip: 17.253.144.10
+
+Ipinfo Analysis:
+  - Ip: 17.253.144.10
+  - City: Cupertino
+  - Region: California
+  - Country: US
+  - Organization: AS714 Apple Inc.
+
+Abuseipdb Analysis:
+  - Ip: 17.253.144.10
+  - Abuse Confidence: 0
+  - Total Reports: 76
+  - Last Reported: 2024-11-29T13:17:01+00:00
+
+Final Verdict:
+  Phishing Site (High Risk)
+
+--- Analysis 67 ---
+Input: google.com
+Analysis Report for Input: google.com
+
+
+Virustotal Analysis:
+  - Error: VirusTotal could not analyze the input.
+
+Ipqualityscore Analysis:
+  - Ip: None
+  - Fraud Score: 0
+  - Is Phishing: None
+
+Converted Ip Analysis:
+  - Converted Ip: 142.250.190.110
+
+Ipinfo Analysis:
+  - Ip: 142.250.190.110
+  - City: Chicago
+  - Region: Illinois
+  - Country: US
+  - Organization: AS15169 Google LLC
+
+Abuseipdb Analysis:
+  - Ip: 142.250.190.110
+  - Abuse Confidence: 0
+  - Total Reports: 0
+  - Last Reported: 2022-02-02T17:29:48+00:00
+
+Final Verdict:
+  Probably Safe (Low Risk)
+
+--- Analysis 71 ---
+Input: https://google.com
+Analysis Report for Input: https://google.com
+
+
+Virustotal Analysis:
+  - Harmless: 0
+  - Malicious: 0
+  - Suspicious: 0
+  - Undetected: 0
+
+Ipqualityscore Analysis:
+  - Error: IPQualityScore could not analyze the input.
+
+Final Verdict:
+  Probably Safe (Low Risk)
+
+--- Analysis 72 ---
+Input: app.com
+Analysis Report for Input: app.com
+
+
+Virustotal Analysis:
+  - Harmless: 0
+  - Malicious: 0
+  - Suspicious: 0
+  - Undetected: 0
+
+Ipqualityscore Analysis:
+  - Ip: None
+  - Fraud Score: 75
+  - Is Phishing: None
+
+Converted Ip Analysis:
+  - Converted Ip: 146.75.30.62
+
+Ipinfo Analysis:
+  - Ip: 146.75.30.62
+  - City: Ashburn
+  - Region: Virginia
+  - Country: US
+  - Organization: AS54113 Fastly, Inc.
+
+Abuseipdb Analysis:
+  - Ip: 146.75.30.62
+  - Abuse Confidence: 0
+  - Total Reports: 0
+  - Last Reported: None
+
+Final Verdict:
+  Slight Chance of Phishing (Medium Risk)
+
+--- Analysis 76 ---
+Input: bowwie.com
+Analysis Report for Input: bowwie.com
+
+
+Virustotal Analysis:
+  - Harmless: 0
+  - Malicious: 0
+  - Suspicious: 0
+  - Undetected: 0
+
+Ipqualityscore Analysis:
+  - Ip: None
+  - Fraud Score: None
+  - Is Phishing: None
+
+Final Verdict:
+  Probably Safe (Low Risk)
+
+--- Analysis 78 ---
+Input: hotdog.com
+Analysis Report for Input: hotdog.com
+
+
+Virustotal Analysis:
+  - Harmless: 0
+  - Malicious: 0
+  - Suspicious: 0
+  - Undetected: 0
+
+Ipqualityscore Analysis:
+  - Ip: None
+  - Fraud Score: 0
+  - Is Phishing: None
+
+Converted Ip Analysis:
+  - Converted Ip: 104.26.15.40
+
+Ipinfo Analysis:
+  - Ip: 104.26.15.40
+  - City: San Francisco
+  - Region: California
+  - Country: US
+  - Organization: AS13335 Cloudflare, Inc.
+
+Abuseipdb Analysis:
+  - Ip: 104.26.15.40
+  - Abuse Confidence: 0
+  - Total Reports: 0
+  - Last Reported: None
+
+Final Verdict:
+  Probably Safe (Low Risk)
+
