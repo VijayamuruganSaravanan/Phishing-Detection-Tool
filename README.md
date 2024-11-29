@@ -19,3 +19,10 @@ A phishing detection tool using APIs for URL and IP address analysis.
 - `app.py`: Main application script.
 - `config.ini`: Configuration file for API keys.
 - `history.txt`: Stores analysis history.
+  
+# Phishing Detection Tool
+This repository is read-only for public users. Feel free to download and use the code, but modifications to this repository are restricted.
+
+## How to Download
+- Click the green **Code** button at the top-right of this page.
+- Select **Download ZIP** to download the entire project.
